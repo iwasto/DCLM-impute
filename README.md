@@ -20,7 +20,7 @@ The current repository provides the research implementation and a reproducible e
 ## Overview of DCLM-impute
 
 <p align="center">
-  <img src="assets/DCLM-impute_overview.jpg" alt="Overview of DCLM-impute" width="100%">
+  <img src="DCLM-impute_overview.jpg" alt="Overview of DCLM-impute" width="100%">
 </p>
 
 **Figure 1. Overview of DCLM-impute.**  
